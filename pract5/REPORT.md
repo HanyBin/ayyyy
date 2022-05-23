@@ -31,8 +31,7 @@
 1. Астероиды не сталкиваются, а свободно проходят друг поверх друга. 
 
 ![](Aspose.Words.8a4205f4-4352-46e8-af7e-6deb44e6d489.001.png)
-[Без заголrовка.png](https://github.com/HanyBin/ayyyy/blob/main/pract5/Без%20заголr![image](https://user-images.githubusercontent.com/51113403/169824870-780a1681-990c-4555-8ae2-2d77fae58b44.png)
-овка.png?raw=true)
+
 Начальное окно игры «Астероиды»
 
 ![](Aspose.Words.8a4205f4-4352-46e8-af7e-6deb44e6d489.001.png)
