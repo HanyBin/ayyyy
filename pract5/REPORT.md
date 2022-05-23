@@ -32,7 +32,7 @@
 
 ![](Aspose.Words.8a4205f4-4352-46e8-af7e-6deb44e6d489.001.png)
 
-![alt text](ayyyy/pract5/Без заголrовка.png)
+![alt text](https://github.com/HanyBin/ayyyy/blob/main/pract5/Без%20заголrовка.png)
 
 Начальное окно игры «Астероиды»
 
